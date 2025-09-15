@@ -1,0 +1,13 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="128" viewBox="0 0 512 128">
+  
+  <!-- Star-like Logo -->
+  <g transform="translate(60,64) scale(1.2)">
+    <polygon points="0,-40 15,-15 40,0 15,15 0,40 -15,15 -40,0 -15,-15" fill="#4C3DFF" stroke="none"></polygon>
+  </g>
+  
+  <!-- AiStack Text -->
+  <text x="120" y="78" font-family="Segoe UI, Roboto, Arial, sans-serif" font-weight="700" font-size="64" fill="#4C3DFF">
+    AiStack
+  </text>
+</svg>
